@@ -1,0 +1,28 @@
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe.config
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csprojResolveAssemblyReference.cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Form1.resources
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Properties.Resources.resources
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csproj.GenerateResource.Cache
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+c:\users\henry\documents\visual studio 2015\Projects\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe.config
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Form1.resources
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Properties.Resources.resources
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+C:\Users\Henry\Desktop\POS409\W4\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe.config
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\bin\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Form1.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry_Hernandez_W4_POS409_Exceptions.Properties.Resources.resources
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.exe
+C:\Users\Henry\Desktop\Net2\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\Henry Hernandez W4 POS409 Exceptions\obj\Debug\Henry Hernandez W4 POS409 Exceptions.pdb
